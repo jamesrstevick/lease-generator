@@ -1,7 +1,7 @@
 ###########################################
 # Dashboard for generating leases
 ###########################################
-# Version 1.0
+# Version 1.1
 # Author: James Stevick
 # Date: 5/30/2019
 # Python 3.0
